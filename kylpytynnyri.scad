@@ -13,3 +13,4 @@ height = 1000;    // Tynnyrin korkeus
 // planks = 42;      // Lautojen määrä
 
 barrel_sides(planks, plank, height);
+barrel_floor(planks, plank);
